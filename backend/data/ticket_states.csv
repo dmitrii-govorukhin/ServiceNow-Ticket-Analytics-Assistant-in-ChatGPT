@@ -1,0 +1,563 @@
+case,valid_from,valid_to,is_current,status,assigned_to,assignment_group
+EHSD-CS0001325,5/6/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001346,5/5/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001347,5/5/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001348,5/14/2026 11:17,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001349,5/6/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001352,5/12/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001354,5/14/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001355,5/14/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001356,5/15/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001358,5/5/2026 10:35,5/5/2026 10:59,FALSE,Awaiting Info,,
+EHSD-CS0001358,5/5/2026 10:59,5/7/2026 11:01,FALSE,Pending,,
+EHSD-CS0001358,5/7/2026 11:01,5/7/2026 11:50,FALSE,Awaiting Info,,
+EHSD-CS0001358,5/7/2026 11:50,5/7/2026 11:53,FALSE,Awaiting External Partner,,
+EHSD-CS0001358,5/7/2026 11:53,5/7/2026 11:56,FALSE,Pending,,
+EHSD-CS0001358,5/7/2026 11:56,5/7/2026 12:00,FALSE,Diagnosed,,
+EHSD-CS0001358,5/7/2026 12:00,5/7/2026 12:32,FALSE,Work in Progress,,
+EHSD-CS0001358,5/7/2026 12:32,,TRUE,Awaiting Info,,
+EHSD-CS0001359,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001365,5/15/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - Contact Center
+EHSD-CS0001369,5/21/2026 9:26,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001370,5/16/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001371,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001372,5/5/2026 11:19,5/5/2026 11:31,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001372,5/5/2026 11:31,5/5/2026 13:22,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001372,5/5/2026 13:22,5/20/2026 23:30,FALSE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001372,5/20/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001373,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001374,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001375,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001376,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001377,5/5/2026 12:34,5/5/2026 12:34,FALSE,Dispatched,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001377,5/5/2026 12:34,5/7/2026 11:28,FALSE,Diagnosed,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001377,5/7/2026 11:28,5/7/2026 11:28,FALSE,Dispatched,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001377,5/7/2026 11:28,5/7/2026 11:29,FALSE,Diagnosed,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001377,5/7/2026 11:29,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001378,5/19/2026 13:26,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001380,5/5/2026 10:43,5/5/2026 10:56,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001380,5/5/2026 10:56,5/20/2026 23:30,FALSE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001380,5/20/2026 23:30,,TRUE,Closed,,Contra Costa - Delegated Admin
+EHSD-CS0001381,5/19/2026 13:24,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001384,5/5/2026 13:33,5/5/2026 13:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001384,5/5/2026 13:58,5/5/2026 13:59,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001384,5/5/2026 13:59,5/20/2026 23:30,FALSE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001384,5/20/2026 23:30,,TRUE,Closed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001388,5/5/2026 14:46,5/5/2026 15:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001388,5/5/2026 15:03,5/6/2026 8:39,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001388,5/6/2026 8:39,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001389,5/6/2026 8:48,5/6/2026 8:57,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001389,5/6/2026 8:57,5/6/2026 9:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001389,5/6/2026 9:33,5/6/2026 13:45,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001389,5/6/2026 13:45,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001390,5/6/2026 9:33,5/6/2026 9:38,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001390,5/6/2026 9:38,5/6/2026 10:17,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001390,5/6/2026 10:17,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001391,5/6/2026 9:53,5/6/2026 10:00,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001391,5/6/2026 10:00,5/6/2026 10:00,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001391,5/6/2026 10:00,5/6/2026 10:30,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001391,5/6/2026 10:30,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001392,5/6/2026 16:07,5/6/2026 16:27,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001392,5/6/2026 16:27,5/6/2026 16:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001392,5/6/2026 16:48,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001393,5/6/2026 16:34,5/6/2026 16:36,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001393,5/6/2026 16:36,5/7/2026 15:37,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001393,5/7/2026 15:37,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001394,5/6/2026 16:37,5/6/2026 16:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001394,5/6/2026 16:44,,TRUE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001395,5/6/2026 19:12,5/7/2026 8:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001395,5/7/2026 8:33,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001396,5/6/2026 20:03,5/7/2026 8:47,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001396,5/7/2026 8:47,5/7/2026 9:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001396,5/7/2026 9:28,5/7/2026 9:31,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001396,5/7/2026 9:31,5/8/2026 10:03,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001396,5/8/2026 10:03,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001397,5/7/2026 8:55,5/7/2026 9:17,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001397,5/7/2026 9:17,5/7/2026 9:41,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001397,5/7/2026 9:41,5/7/2026 9:43,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001397,5/7/2026 9:43,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001398,5/7/2026 9:03,5/7/2026 9:32,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001398,5/7/2026 9:32,5/7/2026 14:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001398,5/7/2026 14:22,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001399,5/7/2026 9:27,5/7/2026 9:40,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001399,5/7/2026 9:40,5/7/2026 10:53,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001399,5/7/2026 10:53,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001400,5/7/2026 14:01,5/7/2026 14:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001400,5/7/2026 14:30,5/21/2026 9:25,FALSE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001400,5/21/2026 9:25,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001401,5/7/2026 14:30,5/7/2026 14:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001401,5/7/2026 14:44,5/7/2026 14:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001401,5/7/2026 14:58,5/7/2026 16:31,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001401,5/7/2026 16:31,5/8/2026 15:33,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001401,5/8/2026 15:33,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001402,5/7/2026 15:10,5/7/2026 15:23,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001402,5/7/2026 15:23,5/11/2026 13:05,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001402,5/11/2026 13:05,5/12/2026 9:59,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001402,5/12/2026 9:59,,TRUE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001403,5/7/2026 16:20,5/7/2026 16:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001403,5/7/2026 16:52,5/7/2026 16:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001403,5/7/2026 16:52,,TRUE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001404,5/7/2026 16:58,5/7/2026 17:04,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001404,5/7/2026 17:04,5/8/2026 17:13,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001404,5/8/2026 17:13,5/19/2026 11:22,FALSE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001404,5/19/2026 11:22,5/19/2026 14:32,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001404,5/19/2026 14:32,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001405,5/7/2026 17:06,5/8/2026 8:32,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001405,5/8/2026 8:32,5/8/2026 13:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001405,5/8/2026 13:21,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001406,5/7/2026 17:11,5/8/2026 8:42,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001406,5/8/2026 8:42,5/8/2026 9:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001406,5/8/2026 9:30,5/8/2026 16:40,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001406,5/8/2026 16:40,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001407,5/8/2026 8:41,5/8/2026 8:54,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001407,5/8/2026 8:54,5/11/2026 11:43,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001407,5/11/2026 11:43,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001408,5/8/2026 9:19,5/8/2026 9:32,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001408,5/8/2026 9:32,5/8/2026 9:41,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001408,5/8/2026 9:41,5/8/2026 14:59,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001408,5/8/2026 14:59,5/11/2026 14:37,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001408,5/11/2026 14:37,5/11/2026 14:37,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001408,5/11/2026 14:37,5/11/2026 15:14,FALSE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001408,5/11/2026 15:14,5/20/2026 7:54,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001408,5/20/2026 7:54,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001409,5/8/2026 9:33,5/8/2026 9:51,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001409,5/8/2026 9:51,5/8/2026 10:59,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001409,5/8/2026 10:59,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001410,5/8/2026 10:32,5/8/2026 10:55,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001410,5/8/2026 10:55,5/8/2026 13:13,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001410,5/8/2026 13:13,5/8/2026 16:27,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001410,5/8/2026 16:27,5/12/2026 13:30,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001410,5/12/2026 13:30,,TRUE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001411,5/8/2026 10:37,5/8/2026 11:05,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001411,5/8/2026 11:05,5/8/2026 11:10,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001411,5/8/2026 11:10,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001412,5/8/2026 11:22,5/8/2026 11:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001412,5/8/2026 11:34,5/8/2026 15:27,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001412,5/8/2026 15:27,5/11/2026 15:06,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001412,5/11/2026 15:06,5/11/2026 15:25,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001412,5/11/2026 15:25,5/12/2026 8:27,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001412,5/12/2026 8:27,,TRUE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001413,5/8/2026 11:56,5/8/2026 12:05,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001413,5/8/2026 12:05,5/11/2026 14:24,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001413,5/11/2026 14:24,5/13/2026 11:33,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001413,5/13/2026 11:33,5/13/2026 11:43,FALSE,Pending,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001413,5/13/2026 11:43,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001414,5/8/2026 13:33,5/8/2026 13:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001414,5/8/2026 13:49,,TRUE,New,,T1 - Contra Costa - Contact Center
+EHSD-CS0001415,5/8/2026 13:54,5/8/2026 14:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001415,5/8/2026 14:06,,TRUE,New,,T1 - Contra Costa - Contact Center
+EHSD-CS0001416,5/8/2026 14:12,5/8/2026 14:35,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001416,5/8/2026 14:35,5/8/2026 15:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001416,5/8/2026 15:03,5/12/2026 13:57,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001416,5/12/2026 13:57,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001417,5/8/2026 15:09,5/8/2026 15:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001417,5/8/2026 15:22,5/11/2026 8:29,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001417,5/11/2026 8:29,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001418,5/8/2026 15:32,5/8/2026 15:50,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001418,5/8/2026 15:50,5/11/2026 12:00,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001418,5/11/2026 12:00,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001419,5/8/2026 16:12,5/8/2026 16:26,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001419,5/8/2026 16:26,5/11/2026 8:45,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001419,5/11/2026 8:45,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001420,5/8/2026 16:17,5/8/2026 16:37,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001420,5/8/2026 16:37,5/11/2026 16:19,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001420,5/11/2026 16:19,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001421,5/8/2026 16:20,5/8/2026 16:43,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001421,5/8/2026 16:43,5/11/2026 10:51,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001421,5/11/2026 10:51,,TRUE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001422,5/9/2026 13:27,5/11/2026 8:40,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001422,5/11/2026 8:40,5/12/2026 8:25,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001422,5/12/2026 8:25,5/14/2026 12:55,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001422,5/14/2026 12:55,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001423,5/11/2026 9:40,5/11/2026 10:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001423,5/11/2026 10:06,5/11/2026 12:27,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001423,5/11/2026 12:27,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001424,5/11/2026 13:44,5/11/2026 14:00,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001424,5/11/2026 14:00,5/11/2026 16:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001424,5/11/2026 16:33,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001425,5/11/2026 14:03,5/11/2026 14:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001425,5/11/2026 14:21,5/11/2026 14:44,FALSE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001425,5/11/2026 14:44,5/12/2026 14:16,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001425,5/12/2026 14:16,5/12/2026 14:17,FALSE,Dispatched,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001425,5/12/2026 14:17,5/12/2026 14:17,FALSE,Diagnosed,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001425,5/12/2026 14:17,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001426,5/11/2026 14:21,5/11/2026 14:31,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001426,5/11/2026 14:31,5/11/2026 15:15,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001426,5/11/2026 15:15,5/12/2026 10:10,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001426,5/12/2026 10:10,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001427,5/11/2026 14:54,5/11/2026 15:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001427,5/11/2026 15:01,5/12/2026 16:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001427,5/12/2026 16:49,5/14/2026 9:20,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001427,5/14/2026 9:20,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001428,5/11/2026 15:09,5/11/2026 15:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001428,5/11/2026 15:21,5/11/2026 16:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001428,5/11/2026 16:01,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001429,5/11/2026 15:15,5/11/2026 15:29,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001429,5/11/2026 15:29,5/12/2026 14:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001429,5/12/2026 14:01,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001430,5/11/2026 15:35,5/11/2026 15:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001430,5/11/2026 15:49,5/11/2026 16:08,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001430,5/11/2026 16:08,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001431,5/11/2026 16:27,5/11/2026 16:40,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001431,5/11/2026 16:40,5/12/2026 11:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001431,5/12/2026 11:34,5/13/2026 11:55,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001431,5/13/2026 11:55,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001432,5/11/2026 16:51,5/12/2026 8:38,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001432,5/12/2026 8:38,5/12/2026 11:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001432,5/12/2026 11:58,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001433,5/11/2026 19:01,5/12/2026 8:47,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001433,5/12/2026 8:47,5/13/2026 8:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001433,5/13/2026 8:30,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001434,5/12/2026 8:46,5/12/2026 8:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001434,5/12/2026 8:58,5/12/2026 9:27,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001434,5/12/2026 9:27,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001435,5/12/2026 8:55,5/12/2026 9:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001435,5/12/2026 9:22,5/12/2026 9:26,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001435,5/12/2026 9:26,5/12/2026 9:52,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001435,5/12/2026 9:52,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001436,5/12/2026 9:21,5/12/2026 9:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001436,5/12/2026 9:33,5/12/2026 12:02,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001436,5/12/2026 12:02,5/12/2026 13:39,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001436,5/12/2026 13:39,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001437,5/12/2026 9:52,5/12/2026 10:05,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001437,5/12/2026 10:05,5/12/2026 13:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001437,5/12/2026 13:30,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001438,5/12/2026 11:19,5/12/2026 11:29,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001438,5/12/2026 11:29,5/12/2026 15:35,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001438,5/12/2026 15:35,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001439,5/12/2026 11:38,5/12/2026 11:41,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001439,5/12/2026 11:41,,TRUE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001440,5/12/2026 12:14,5/12/2026 12:25,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001440,5/12/2026 12:25,5/12/2026 13:41,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001440,5/12/2026 13:41,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001441,5/12/2026 14:53,5/12/2026 15:04,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001441,5/12/2026 15:04,5/12/2026 15:54,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001441,5/12/2026 15:54,5/13/2026 9:50,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001441,5/13/2026 9:50,5/13/2026 16:58,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001441,5/13/2026 16:58,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001442,5/12/2026 16:18,5/12/2026 16:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001442,5/12/2026 16:33,5/13/2026 9:39,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001442,5/13/2026 9:39,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001443,5/12/2026 16:21,5/12/2026 16:45,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001443,5/12/2026 16:45,5/13/2026 9:10,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001443,5/13/2026 9:10,5/13/2026 11:23,FALSE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001443,5/13/2026 11:23,5/13/2026 11:37,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001443,5/13/2026 11:37,5/13/2026 12:15,FALSE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001443,5/13/2026 12:15,,TRUE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001444,5/12/2026 16:58,5/13/2026 9:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001444,5/13/2026 9:30,5/14/2026 11:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001444,5/14/2026 11:01,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001445,5/13/2026 8:52,5/13/2026 9:40,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001445,5/13/2026 9:40,5/13/2026 10:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001445,5/13/2026 10:06,5/14/2026 8:35,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001445,5/14/2026 8:35,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001446,5/13/2026 8:55,5/13/2026 9:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001446,5/13/2026 9:48,5/13/2026 11:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001446,5/13/2026 11:06,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001447,5/13/2026 10:40,5/13/2026 10:55,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001447,5/13/2026 10:55,5/13/2026 11:36,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001447,5/13/2026 11:36,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001448,5/13/2026 11:07,5/13/2026 11:19,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001448,5/13/2026 11:19,5/14/2026 13:08,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001448,5/14/2026 13:08,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001449,5/13/2026 11:25,5/13/2026 11:36,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001449,5/13/2026 11:36,5/13/2026 15:36,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001449,5/13/2026 15:36,5/18/2026 11:39,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001449,5/18/2026 11:39,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001450,5/13/2026 11:59,5/13/2026 12:12,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001450,5/13/2026 12:12,5/13/2026 13:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001450,5/13/2026 13:21,5/13/2026 13:34,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001450,5/13/2026 13:34,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001451,5/13/2026 12:42,5/13/2026 13:08,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001451,5/13/2026 13:08,5/14/2026 12:05,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001451,5/14/2026 12:05,5/19/2026 8:55,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001451,5/19/2026 8:55,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001452,5/13/2026 13:38,5/13/2026 13:47,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001452,5/13/2026 13:47,5/13/2026 14:14,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001452,5/13/2026 14:14,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001453,5/13/2026 13:38,5/13/2026 13:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001453,5/13/2026 13:52,5/13/2026 14:51,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001453,5/13/2026 14:51,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001454,5/13/2026 13:40,5/13/2026 13:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001454,5/13/2026 13:58,5/13/2026 14:52,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001454,5/13/2026 14:52,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001455,5/13/2026 13:40,5/13/2026 14:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001455,5/13/2026 14:03,5/13/2026 14:53,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001455,5/13/2026 14:53,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001456,5/13/2026 13:42,5/13/2026 14:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001456,5/13/2026 14:06,5/13/2026 14:53,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001456,5/13/2026 14:53,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001457,5/13/2026 13:42,5/13/2026 14:10,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001457,5/13/2026 14:10,5/13/2026 14:53,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001457,5/13/2026 14:53,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001458,5/13/2026 13:44,5/13/2026 14:14,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001458,5/13/2026 14:14,5/13/2026 14:54,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001458,5/13/2026 14:54,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001459,5/13/2026 13:45,5/13/2026 14:18,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001459,5/13/2026 14:18,5/13/2026 14:54,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001459,5/13/2026 14:54,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001460,5/13/2026 13:51,5/13/2026 14:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001460,5/13/2026 14:22,5/13/2026 14:55,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001460,5/13/2026 14:55,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001461,5/13/2026 13:51,5/13/2026 14:27,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001461,5/13/2026 14:27,5/13/2026 14:55,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001461,5/13/2026 14:55,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001462,5/13/2026 13:52,5/13/2026 14:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001462,5/13/2026 14:30,5/13/2026 14:55,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001462,5/13/2026 14:55,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001463,5/13/2026 13:52,5/13/2026 14:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001463,5/13/2026 14:34,5/13/2026 14:56,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001463,5/13/2026 14:56,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001464,5/13/2026 13:53,5/13/2026 14:38,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001464,5/13/2026 14:38,5/13/2026 14:56,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001464,5/13/2026 14:56,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001465,5/13/2026 14:36,5/13/2026 14:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001465,5/13/2026 14:48,5/14/2026 12:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001465,5/14/2026 12:49,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001466,5/13/2026 14:44,5/13/2026 14:54,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001466,5/13/2026 14:54,5/13/2026 16:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001466,5/13/2026 16:52,5/14/2026 8:40,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001466,5/14/2026 8:40,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001467,5/13/2026 14:58,5/13/2026 15:13,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001467,5/13/2026 15:13,5/13/2026 15:17,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001467,5/13/2026 15:17,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001468,5/13/2026 15:11,5/13/2026 15:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001468,5/13/2026 15:21,5/13/2026 15:57,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001468,5/13/2026 15:57,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001469,5/13/2026 16:53,5/14/2026 8:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001469,5/14/2026 8:28,5/19/2026 9:40,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001469,5/19/2026 9:40,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001470,5/14/2026 8:16,5/14/2026 9:10,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001470,5/14/2026 9:10,5/14/2026 16:35,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001470,5/14/2026 16:35,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001471,5/14/2026 8:53,5/14/2026 8:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001471,5/14/2026 8:58,5/14/2026 11:51,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001471,5/14/2026 11:51,5/15/2026 13:55,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001471,5/15/2026 13:55,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001472,5/14/2026 11:02,5/14/2026 11:09,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001472,5/14/2026 11:09,5/14/2026 12:07,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001472,5/14/2026 12:07,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001473,5/14/2026 12:12,5/14/2026 12:15,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001473,5/14/2026 12:15,,TRUE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001474,5/14/2026 14:44,5/14/2026 14:59,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001474,5/14/2026 14:59,5/14/2026 17:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001474,5/14/2026 17:22,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001475,5/14/2026 14:55,5/14/2026 15:08,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001475,5/14/2026 15:08,5/19/2026 14:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001475,5/19/2026 14:01,,TRUE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001476,5/14/2026 16:24,5/14/2026 16:30,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001476,5/14/2026 16:30,5/20/2026 12:54,FALSE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001476,5/20/2026 12:54,,TRUE,Awaiting Info,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001477,5/14/2026 16:44,5/14/2026 16:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001477,5/14/2026 16:48,5/15/2026 9:56,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001477,5/15/2026 9:56,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001478,5/14/2026 16:49,5/15/2026 8:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001478,5/15/2026 8:22,5/15/2026 9:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001478,5/15/2026 9:33,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001480,5/15/2026 9:28,5/15/2026 9:47,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001480,5/15/2026 9:47,5/19/2026 15:39,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001480,5/19/2026 15:39,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001481,5/15/2026 9:31,5/15/2026 9:55,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001481,5/15/2026 9:55,5/15/2026 15:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001481,5/15/2026 15:49,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001482,5/15/2026 9:45,5/15/2026 10:07,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001482,5/15/2026 10:07,5/15/2026 14:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001482,5/15/2026 14:34,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001483,5/15/2026 10:07,5/15/2026 10:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001483,5/15/2026 10:21,5/15/2026 12:11,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001483,5/15/2026 12:11,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001484,5/15/2026 13:04,5/15/2026 13:56,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001484,5/15/2026 13:56,5/19/2026 15:47,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001484,5/19/2026 15:47,,TRUE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001485,5/15/2026 15:11,5/15/2026 15:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001485,5/15/2026 15:22,5/15/2026 16:08,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001485,5/15/2026 16:08,5/15/2026 16:08,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001485,5/15/2026 16:08,,TRUE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001486,5/15/2026 15:16,5/15/2026 15:50,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001486,5/15/2026 15:50,5/15/2026 16:42,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001486,5/15/2026 16:42,5/19/2026 9:35,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001486,5/19/2026 9:35,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001487,5/16/2026 7:33,5/18/2026 8:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001487,5/18/2026 8:44,5/18/2026 8:46,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001487,5/18/2026 8:46,5/18/2026 13:26,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001487,5/18/2026 13:26,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001488,5/18/2026 9:04,5/18/2026 9:18,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001488,5/18/2026 9:18,5/18/2026 9:24,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001488,5/18/2026 9:24,5/19/2026 16:17,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001488,5/19/2026 16:17,5/19/2026 16:37,FALSE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001488,5/19/2026 16:37,5/20/2026 9:25,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001488,5/20/2026 9:25,5/20/2026 11:24,FALSE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001488,5/20/2026 11:24,5/20/2026 11:46,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001488,5/20/2026 11:46,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001489,5/18/2026 9:16,5/18/2026 9:26,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001489,5/18/2026 9:26,,TRUE,New,,T1 - Contra Costa - EHSD IT Help Desk
+EHSD-CS0001490,5/18/2026 9:19,5/18/2026 9:45,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001490,5/18/2026 9:45,,TRUE,New,,T1 - Contra Costa - EHSD IT Help Desk
+EHSD-CS0001491,5/18/2026 9:20,5/18/2026 9:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001491,5/18/2026 9:52,5/18/2026 15:19,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001491,5/18/2026 15:19,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001492,5/18/2026 9:28,5/18/2026 10:14,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001492,5/18/2026 10:14,5/18/2026 10:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001492,5/18/2026 10:34,5/18/2026 10:41,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001492,5/18/2026 10:41,5/18/2026 13:56,FALSE,Pending,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001492,5/18/2026 13:56,5/19/2026 21:08,FALSE,Diagnosed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001492,5/19/2026 21:08,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001493,5/18/2026 9:31,5/18/2026 10:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001493,5/18/2026 10:21,,TRUE,New,,T1 - Contra Costa - EHSD IT Help Desk
+EHSD-CS0001494,5/18/2026 9:54,5/18/2026 10:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001494,5/18/2026 10:28,5/18/2026 12:12,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001494,5/18/2026 12:12,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001495,5/18/2026 10:01,5/18/2026 11:02,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001495,5/18/2026 11:02,5/19/2026 16:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001495,5/19/2026 16:06,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001496,5/18/2026 11:33,5/18/2026 11:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001496,5/18/2026 11:49,5/18/2026 11:51,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001496,5/18/2026 11:51,5/19/2026 11:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001496,5/19/2026 11:06,5/19/2026 11:27,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001496,5/19/2026 11:27,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001497,5/18/2026 11:38,5/18/2026 12:02,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001497,5/18/2026 12:02,5/18/2026 15:29,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001497,5/18/2026 15:29,5/19/2026 13:30,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001497,5/19/2026 13:30,5/19/2026 13:50,FALSE,Open,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001497,5/19/2026 13:50,5/19/2026 14:01,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001497,5/19/2026 14:01,,TRUE,Diagnosed,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001498,5/18/2026 11:45,5/18/2026 12:23,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001498,5/18/2026 12:23,5/18/2026 14:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001498,5/18/2026 14:34,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001499,5/18/2026 11:56,5/18/2026 12:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001499,5/18/2026 12:34,5/18/2026 12:49,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001499,5/18/2026 12:49,5/18/2026 12:54,FALSE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001499,5/18/2026 12:54,5/18/2026 13:56,FALSE,Pending,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001499,5/18/2026 13:56,5/19/2026 21:08,FALSE,Diagnosed,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001499,5/19/2026 21:08,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001500,5/18/2026 12:11,5/18/2026 13:14,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001500,5/18/2026 13:14,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001501,5/18/2026 13:32,5/18/2026 13:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001501,5/18/2026 13:44,5/18/2026 13:54,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001501,5/18/2026 13:54,5/18/2026 14:37,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001501,5/18/2026 14:37,5/18/2026 15:03,FALSE,Pending,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001501,5/18/2026 15:03,5/19/2026 21:08,FALSE,Diagnosed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001501,5/19/2026 21:08,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001502,5/18/2026 14:16,5/18/2026 14:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001502,5/18/2026 14:28,5/18/2026 15:29,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001502,5/18/2026 15:29,5/19/2026 7:47,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001502,5/19/2026 7:47,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001503,5/18/2026 15:25,5/18/2026 15:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001503,5/18/2026 15:52,5/20/2026 12:55,FALSE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001503,5/20/2026 12:55,,TRUE,Awaiting Info,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001504,5/18/2026 16:02,5/18/2026 16:13,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001504,5/18/2026 16:13,5/18/2026 16:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001504,5/18/2026 16:28,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001505,5/18/2026 16:22,5/18/2026 16:34,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001505,5/18/2026 16:34,5/20/2026 9:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001505,5/20/2026 9:48,,TRUE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001506,5/18/2026 17:18,5/19/2026 8:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001506,5/19/2026 8:28,5/19/2026 8:35,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001506,5/19/2026 8:35,5/19/2026 11:18,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001506,5/19/2026 11:18,,TRUE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001507,5/19/2026 8:05,5/19/2026 8:43,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001507,5/19/2026 8:43,5/19/2026 9:34,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001507,5/19/2026 9:34,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001508,5/19/2026 8:59,5/19/2026 9:21,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001508,5/19/2026 9:21,5/19/2026 9:50,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001508,5/19/2026 9:50,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001509,5/19/2026 10:01,5/19/2026 10:13,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001509,5/19/2026 10:13,5/19/2026 11:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001509,5/19/2026 11:28,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001510,5/19/2026 10:03,5/19/2026 10:22,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001510,5/19/2026 10:22,5/19/2026 10:51,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001510,5/19/2026 10:51,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001511,5/19/2026 10:47,5/19/2026 10:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001511,5/19/2026 10:58,5/20/2026 9:09,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001511,5/20/2026 9:09,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001512,5/19/2026 11:28,5/19/2026 11:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001512,5/19/2026 11:44,5/19/2026 12:56,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001512,5/19/2026 12:56,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001513,5/19/2026 11:38,5/19/2026 11:52,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001513,5/19/2026 11:52,5/19/2026 16:53,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001513,5/19/2026 16:53,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001514,5/19/2026 12:05,5/19/2026 13:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001514,5/19/2026 13:03,,TRUE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001515,5/19/2026 13:45,5/19/2026 14:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001515,5/19/2026 14:01,5/19/2026 14:37,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001515,5/19/2026 14:37,5/19/2026 15:39,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001515,5/19/2026 15:39,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001516,5/19/2026 13:50,5/19/2026 14:08,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001516,5/19/2026 14:08,5/19/2026 15:47,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001516,5/19/2026 15:47,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001517,5/19/2026 14:00,5/19/2026 14:20,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001517,5/19/2026 14:20,5/19/2026 15:23,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001517,5/19/2026 15:23,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001518,5/19/2026 14:15,5/19/2026 14:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001518,5/19/2026 14:28,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001519,5/19/2026 14:51,5/19/2026 15:02,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001519,5/19/2026 15:02,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001520,5/19/2026 15:02,5/19/2026 15:13,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001520,5/19/2026 15:13,5/19/2026 15:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001520,5/19/2026 15:48,5/20/2026 7:59,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001520,5/20/2026 7:59,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001521,5/19/2026 15:21,5/19/2026 15:25,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001521,5/19/2026 15:25,5/19/2026 16:19,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001521,5/19/2026 16:19,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001522,5/19/2026 16:09,5/19/2026 16:19,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001522,5/19/2026 16:19,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001523,5/19/2026 16:25,5/19/2026 16:33,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001523,5/19/2026 16:33,5/19/2026 16:58,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001523,5/19/2026 16:58,5/20/2026 8:43,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001523,5/20/2026 8:43,5/20/2026 10:46,FALSE,Pending,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001523,5/20/2026 10:46,5/20/2026 16:08,FALSE,Open,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001523,5/20/2026 16:08,,TRUE,Diagnosed,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001524,5/19/2026 16:27,5/19/2026 16:39,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001524,5/19/2026 16:39,5/20/2026 9:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001524,5/20/2026 9:03,5/20/2026 9:16,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001524,5/20/2026 9:16,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001525,5/19/2026 16:55,5/20/2026 8:37,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001525,5/20/2026 8:37,5/20/2026 9:18,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001525,5/20/2026 9:18,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001526,5/20/2026 8:14,5/20/2026 8:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001526,5/20/2026 8:44,,TRUE,New,,T1 - Contra Costa - EHSD IT Help Desk
+EHSD-CS0001527,5/20/2026 9:00,5/20/2026 9:09,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001527,5/20/2026 9:09,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001528,5/20/2026 9:36,5/20/2026 9:48,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001528,5/20/2026 9:48,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001529,5/20/2026 10:07,5/20/2026 10:18,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001529,5/20/2026 10:18,5/20/2026 11:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001529,5/20/2026 11:03,5/20/2026 11:50,FALSE,Work in Progress,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001529,5/20/2026 11:50,5/21/2026 8:22,FALSE,Awaiting Info,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001529,5/21/2026 8:22,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001530,5/20/2026 11:10,5/20/2026 11:15,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001530,5/20/2026 11:15,5/20/2026 12:44,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001530,5/20/2026 12:44,5/20/2026 13:00,FALSE,New,,T1 - Contra Costa - CalSAWS Management Office
+EHSD-CS0001530,5/20/2026 13:00,5/20/2026 14:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001530,5/20/2026 14:03,,TRUE,New,,T1 - Contra Costa - CalHEERS
+EHSD-CS0001531,5/20/2026 11:34,5/20/2026 11:51,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001531,5/20/2026 11:51,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001532,5/20/2026 11:54,5/20/2026 12:18,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001532,5/20/2026 12:18,5/20/2026 13:51,FALSE,New,,Contra Costa - Delegated Admin
+EHSD-CS0001532,5/20/2026 13:51,,TRUE,Resolved,,Contra Costa - Delegated Admin
+EHSD-CS0001533,5/20/2026 12:38,5/20/2026 13:03,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001533,5/20/2026 13:03,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001534,5/20/2026 12:51,5/20/2026 13:09,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001534,5/20/2026 13:09,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001535,5/20/2026 13:15,5/20/2026 13:27,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001535,5/20/2026 13:27,5/20/2026 13:46,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001535,5/20/2026 13:46,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001536,5/20/2026 14:03,5/20/2026 14:17,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001536,5/20/2026 14:17,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001537,5/20/2026 15:39,5/20/2026 16:01,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001537,5/20/2026 16:01,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001538,5/20/2026 16:16,5/20/2026 16:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001538,5/20/2026 16:28,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001539,5/20/2026 16:27,5/20/2026 16:37,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001539,5/20/2026 16:37,5/20/2026 16:54,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001539,5/20/2026 16:54,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001540,5/20/2026 16:42,5/20/2026 16:53,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001540,5/20/2026 16:53,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001541,5/21/2026 7:25,5/21/2026 8:37,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001541,5/21/2026 8:37,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001542,5/21/2026 8:01,5/21/2026 8:45,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001542,5/21/2026 8:45,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001543,5/21/2026 8:49,5/21/2026 9:06,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001543,5/21/2026 9:06,5/21/2026 9:28,FALSE,New,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001543,5/21/2026 9:28,,TRUE,Resolved,,T1 - Contra Costa - CalSAWS Help Desk
+EHSD-CS0001544,5/21/2026 9:21,,TRUE,New,,T1 - Contra Costa - CalSAWS Help Desk

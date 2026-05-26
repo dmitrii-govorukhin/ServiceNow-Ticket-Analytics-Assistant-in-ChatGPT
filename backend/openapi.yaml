@@ -1,0 +1,58 @@
+openapi: 3.1.0
+
+info:
+  title: Ticket Analytics API
+  version: 1.0.0
+
+servers:
+  - url: https://epileptic-unhook-deskbound.ngrok-free.dev
+
+paths:
+  /analytics/query:
+    post:
+      operationId: runAnalyticsQuery
+      summary: Execute structured analytics query
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                metric:
+                  type: string
+                assigned_to:
+                  type: string
+                  nullable: true
+                assignment_group:
+                  type: string
+                  nullable: true
+                status:
+                  type: string
+                  nullable: true
+                date_from:
+                  type: string
+                  nullable: true
+                date_to:
+                  type: string
+                  nullable: true
+                group_by:
+                  type: string
+                  nullable: true
+              required:
+                - metric
+
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  query:
+                    type: object
+                  result:
+                    type: array
+                    items:
+                      type: object
