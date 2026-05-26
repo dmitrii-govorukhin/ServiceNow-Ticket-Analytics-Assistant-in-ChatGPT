@@ -20,13 +20,9 @@ ________________________________________
 The system follows a five-stage pipeline:
 
 - User question (natural language)
-↓
 - Custom ChatGPT — interprets intent, produces structured JSON query
-↓
 - FastAPI backend — translates JSON into SQL
-↓
 - DuckDB analytics engine — executes query against ticket history
-↓
 - Custom ChatGPT — formats the result into a plain-English answer
 
 ChatGPT plays two roles: Natural Language Interface (question → JSON) and Presentation Layer (JSON result → human-readable answer). All analytics logic runs in the backend.
@@ -58,5 +54,4 @@ The repository contains the backend files.
 
 **Illustration:** Custom ChatGPT demo video
 
-<video src="https://github.com/dmitrii-govorukhin/ServiceNow-Ticket-Analytics-Assistant-in-ChatGPT/blob/main/Custom%20ChatGPT%20Demo.mp4" controls muted loop width="100%"></video>
-
+[![Watch the video]]([https://youtu.be/T-D1KVIuvjA](https://github.com/dmitrii-govorukhin/ServiceNow-Ticket-Analytics-Assistant-in-ChatGPT/blob/main/Custom%20ChatGPT%20Demo.mp4))
