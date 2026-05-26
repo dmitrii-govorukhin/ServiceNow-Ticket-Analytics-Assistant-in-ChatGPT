@@ -58,5 +58,5 @@ The repository contains the backend files.
 
 **Illustration:** Custom ChatGPT demo video
 
-<video src="YOUR-VIDEO-URL" controls muted loop width="100%"></video>
+<video src="[Demo](https://github.com/dmitrii-govorukhin/ServiceNow-Ticket-Analytics-Assistant-in-ChatGPT/blob/main/Custom%20ChatGPT%20Demo.mp4)" controls muted loop width="100%"></video>
 
