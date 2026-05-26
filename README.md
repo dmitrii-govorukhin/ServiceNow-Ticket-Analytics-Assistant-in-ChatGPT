@@ -19,15 +19,15 @@ ________________________________________
 
 The system follows a five-stage pipeline:
 
-User question (natural language)
+- User question (natural language)
 ↓
-Custom ChatGPT — interprets intent, produces structured JSON query
+- Custom ChatGPT — interprets intent, produces structured JSON query
 ↓
-FastAPI backend — translates JSON into SQL
+- FastAPI backend — translates JSON into SQL
 ↓
-DuckDB analytics engine — executes query against ticket history
+- DuckDB analytics engine — executes query against ticket history
 ↓
-Custom ChatGPT — formats the result into a plain-English answer
+- Custom ChatGPT — formats the result into a plain-English answer
 
 ChatGPT plays two roles: Natural Language Interface (question → JSON) and Presentation Layer (JSON result → human-readable answer). All analytics logic runs in the backend.
 ________________________________________
@@ -54,9 +54,9 @@ ________________________________________
 
 The repository contains the backend files.
 
-**Results / Key Findings: ** This custom ChatGPT allows authorized users to instantly access the statistics they need for help desk tickets in ServiceNow without having to create or run reports. ChatGPT's advanced capabilities allow it to respond to any user prompt, and the instructions clearly specify when it needs to access the backend service to retrieve the ServiceNow statistics data.
+**Results / Key Findings:** This custom ChatGPT allows authorized users to instantly access the statistics they need for help desk tickets in ServiceNow without having to create or run reports. ChatGPT's advanced capabilities allow it to respond to any user prompt, and the instructions clearly specify when it needs to access the backend service to retrieve the ServiceNow statistics data.
 
 **Illustration:** Custom ChatGPT demo video
 
-<video src="[Demo](https://github.com/dmitrii-govorukhin/ServiceNow-Ticket-Analytics-Assistant-in-ChatGPT/blob/main/Custom%20ChatGPT%20Demo.mp4)" controls muted loop width="100%"></video>
+<video src="https://github.com/dmitrii-govorukhin/ServiceNow-Ticket-Analytics-Assistant-in-ChatGPT/blob/main/Custom%20ChatGPT%20Demo.mp4" controls muted loop width="100%"></video>
 
