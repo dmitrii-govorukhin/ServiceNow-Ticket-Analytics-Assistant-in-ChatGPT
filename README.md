@@ -48,7 +48,7 @@ ________________________________________
 All metrics support filtering by assignment group, assignee, and date range. Most support group_by for breakdowns. The filter_scope parameter controls whether filters apply to the ticket's current state, its state at resolution, or any point in its history.
 ________________________________________
 
-The repository contains the backend files.
+The repository contains the backend files. Структура файлов приведена в документе [File Reference.docx](https://github.com/dmitrii-govorukhin/ServiceNow-Ticket-Analytics-Assistant-in-ChatGPT/blob/main/docs/File%20Reference.docx)
 
 **Results / Key Findings:** This custom ChatGPT allows authorized users to instantly access the statistics they need for help desk tickets in ServiceNow without having to create or run reports. ChatGPT's advanced capabilities allow it to respond to any user prompt, and the instructions clearly specify when it needs to access the backend service to retrieve the ServiceNow statistics data.
 
